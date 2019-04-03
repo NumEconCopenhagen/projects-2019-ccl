@@ -2,6 +2,9 @@ name: base
 channels:
 - conda-forge
 dependencies:
+  - geopandas
+  - geoplot
+  - gdal
   - nodejs
   - ipympl
   - python
