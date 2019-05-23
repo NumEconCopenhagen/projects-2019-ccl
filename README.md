@@ -1,4 +1,4 @@
-# Welcome to your NumEconCPH repository
+# Welcome to CCL's NumEconCPH repository
 
 We have provided you with the following repository that contains the required structure for this course. **You should not change any folders in the root directory**.
 
