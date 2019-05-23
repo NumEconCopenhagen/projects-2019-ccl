@@ -5,6 +5,9 @@ This repository consists of three folders. One folder for each of our projects d
 In each of the folders, you find a ReadMe file that is specifically written for that project. 
 
 
+-----
+
+
 * [/binder](/binder/): The folder is used by mybinder.org to setup an interactive version of your repository. For details see this [guide](https://numeconcopenhagen.netlify.com/guides/mybinder/).
 * [/dataproject](/dataproject): The structure is as follows: it contains a jupyter notebook where all the results should be presented. Furthermore, there is a python module named the dataproject where you can write and structure all your code.
 * [/examproject](/examproject): Same structure as above.
