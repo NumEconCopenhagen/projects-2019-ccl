@@ -4,6 +4,8 @@ This repository consists of three folders. One folder for each of our projects d
 
 In each of the folders, you find a ReadMe file that is specifically written for that project. 
 
+You find the Feecback.txt with link to the group we each have given feedback to in the folder.
+
 
 -----
 
