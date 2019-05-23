@@ -1,10 +1,11 @@
 # Welcome to CCL's NumEconCPH repository
 
-This repository consists of three folders. One folder for each of our projects doing the semester and one folder for our exam project. In the data project, we chose data from the ATP Tennis League and made an analysis of the best male tennis players in 2015. In the model project, we chose to solve various edition of the augmented Solow model. In the exam folder, you find our best attempt to solve the exam questions.
+This repository consists of three folders and meets the requirements to pass the course Introduction to programming and nummerical analysis. There are created one folder for each of our projects doing the semester and one folder for our exam project. In the data project, we chose data from the ATP Tennis League and made an analysis of the best male tennis players in 2015. In the model project, we chose to solve various edition of the augmented Solow model. In the exam folder, you find our best attempt to solve the exam questions.
 
 In each of the folders, you find a ReadMe file that is specifically written for that project. 
 
-You find the Feecback.txt with link to the group we each have given feedback to in the folder.
+You find the Feecback.txt with link to the group we each have given feedback to in the folder. Feedback (/Feedback)
+
 
 
 -----
