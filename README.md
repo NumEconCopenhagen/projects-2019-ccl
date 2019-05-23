@@ -4,7 +4,7 @@ This repository consists of three folders and meets the requirements to pass the
 
 In each of the folders, you find a ReadMe file that is specifically written for that project. 
 
-You find the Feecback document with link to the groups we each have given feedback to in the folder. * [/Feedback](/Feedback/)
+You find the Feecback document with link to the groups we each have given feedback to here: [/Feedback](/Feedback/).
 
 
 -----
