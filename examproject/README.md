@@ -1,3 +1,3 @@
 # Examproject
 
-Should contain a short introduction to your project, and show how to produce your results.
+Here you find our answer to the exam project. No extra packages are needed to run the code.
